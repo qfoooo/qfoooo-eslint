@@ -1,0 +1,24 @@
+{
+  "name": "@qfoooo/eslint",
+  "version": "0.0.0",
+  "description": "",
+  "main": "base.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qfoooo/qfoooo-eslint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qfoooo/qfoooo-eslint/issues"
+  },
+  "homepage": "https://github.com/qfoooo/qfoooo-eslint#readme",
+  "peerDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "dependencies": {
+    "eslint-plugin-jest": "^23.0.3"
+  }
+}
