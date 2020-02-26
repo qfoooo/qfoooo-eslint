@@ -1,5 +1,5 @@
 {
-  "name": "@qfoooo/eslint",
+  "name": "@qfoooo/eslint-plugin-base",
   "version": "0.0.0",
   "description": "",
   "main": "base.js",
