@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/qfoooo/qfoooo-eslint#readme",
   "peerDependencies": {
-    "eslint": "^6.6.0"
+    "eslint": "^6.6.0 || ^7.0.0"
   },
   "dependencies": {
     "eslint-plugin-jest": "^23.0.3"
